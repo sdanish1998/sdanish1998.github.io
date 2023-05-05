@@ -65,8 +65,6 @@ content:
         sub_title: Analyst
         caption: August 2020 - July 2022
         link: https://www.goldmansachs.com/
-        quote: >
-          Investment Banking Company
         description: |
           Global Markets Surveillance Analytics
             - **Data Science**: Performed statistical analysis on trade data using Python, and trained time-series (ARIMA, GARCH) and machine-learning models to study client activity and market signals, to identify predictable patterns in the firm’s transactions
@@ -79,81 +77,84 @@ content:
         sub_title: Data Scientist
         caption: May - July 2019
         link: http://www.anheuser-busch.com/
-        quote: >
-          Brewing Company
         description: |
-          Data Analytics - Analyzed and built predictive models (kNN, SVM) on aptitude data to measure cultural fitness of candidates
-          Developed & deployed a web-scraper bot that uses Talent Acquisition tools available in the market for proactive recruitment
+          Predictive models to measure the cultural fitness of candidates
+            - **Data Analytics**: Analyzed and built predictive models (kNN, SVM) on aptitude data to measure cultural fitness of candidates
+            - Developed & deployed a web-scraper bot that uses Talent Acquisition tools available in the market for proactive recruitment
       - layout: left
         title: Agnikul Cosmos
         sub_title: Software Developer
         caption: May - July 2018
         link: http://www.agnikul.in/#
-        quote: >
-          Aerospace Company
         description: |
-          Numerical Simulation: Developed a computer model using Python and MATLAB to simulate rocket launch, and compute the trajectory of the rocket and its payload, along with the dropped stages and debris
-          Programmed a dynamic atmosphere model with wind profile and randomness based on academic research; integrated this with the trajectory program and ran Monte-Carlo simulations to compute uncertainties in the predicted trajectories
+          Optimization Analysis for the launch vehicle, Trajectory Design & Simulation, and Debris Modeling
+            - **Numerical Simulation**: Developed a computer model using Python and MATLAB to simulate rocket launch, and compute the trajectory of the rocket and its payload, along with the dropped stages and debris
+            - Programmed a dynamic atmosphere model with wind profile and randomness based on academic research; integrated this with the trajectory program and ran Monte-Carlo simulations to compute uncertainties in the predicted trajectories
   - title: Education
     layout: list
     content:
-      - layout: top-left
+      - layout: top
         title: Cornell University
         sub_title: MEng in Operations Research, Financial Engineering
         caption: 2022 - 2023
         description: |
-          Selected Coursework - Machine Learning, Reinforcement Learning, Big Data Technologies, Optimization, Monte Carlo Simulation, Time Series Analysis, Game Theory, Portfolio Management
           GPA - 4.0
-      - layout: top-left
+          - *Selected Coursework* - Machine Learning, Reinforcement Learning, Big Data Technologies, Optimization, Monte Carlo Simulation, Time Series Analysis, Game Theory, Portfolio Management
+          
+      - layout: top
         title: IIT Madras
         sub_title: BTech in Mechanical Engineering
         caption: 2016 - 2020
         description: |
-          Selected Coursework - Data Structures and Algorithms, Numerical Programming Methods
           GPA - 3.86
+            - *Selected Coursework* - Data Structures and Algorithms, Numerical Programming Methods
   - title: Research & Projects
     layout: list
     content:
-      - layout: top-left
+      - layout: top
         border: weak
         title: Exploratory Analysis between Realized and Implied Volatility of the S&P 500 Index
         sub_title: Cornell University
         caption: January - March 2023
         description: |
-          Studied the underlying dynamics and distribution of Volatility Risk Premium for the S&P 500 using historic options data
-          Analyzed and fitted multivariate Generalized Normal Distribution (GND) using R to predict future volatility in the market
-      - layout: top-left
+         
+          - Studied the underlying dynamics and distribution of Volatility Risk Premium for the S&P 500 using historic options data
+          - Analyzed and fitted multivariate Generalized Normal Distribution (GND) using R to predict future volatility in the market
+      - layout: top
         border: weak
         title: Neural-Network based approach to Non-Linear Pairs-Trading
         sub_title: IAQF Student Competition 2023
         caption: January - February 2023
         description: |
-          Developed a testing algorithm that identifies and quantifies non-linear relationships between ETFs for pairs-trading
-          Built a neural-network based approach to capture non-linear patterns; achieved superior results compared to linear strategies
-      - layout: top-left
+          - Developed a testing algorithm that identifies and quantifies non-linear relationships between ETFs for pairs-trading
+          - Built a neural-network based approach to capture non-linear patterns; achieved superior results compared to linear strategies
+      - layout: top
         border: weak
         title: Generative Adversarial Networks (GAN) for Cryptocurrency Trading
         sub_title: Cornell University
         caption: August - October 2022
         description: |
-          Trained a TimeGAN model to generate synthetic cryptocurrency price time-series data using Tensorflow and Keras
-          Implemented the modified Autoencoder network in cryptocurrency price forecasting & predictive models for trading
-      - layout: top-left
+         
+          - Trained a TimeGAN model to generate synthetic cryptocurrency price time-series data using Tensorflow and Keras
+          - Implemented the modified Autoencoder network in cryptocurrency price forecasting & predictive models for trading
+      - layout: top
         border: weak
         title: Spatial Convolutional Neural Networks (CNN) for Heat Transfer Model
         sub_title: IIT Madras
         caption: January - December 2019
         description: |
-          Trained a 3-D CNN to predict the outcome of Computational Thermodynamics software for complex fin shapes
-          Reduced run-time for complex cases (from days to a few minutes) when using the model as the initial field in a simulation
+         
+          - Trained a 3-D CNN to predict the outcome of Computational Thermodynamics software for complex fin shapes
+          - Reduced run-time for complex cases (from days to a few minutes) when using the model as the initial field in a simulation
       - layout: top
         border: weak
         title: Modeling Chaotic Quantum Mechanical Systems
         sub_title: IIT Madras
         caption: July 2018 - June 2019
         description: |
-          Performed optimized high-dimension matrix operations using Random Matrix Theory (RMT), modeling a quantum operator
-          Studied the eigen-phase & spacing distributions, and Lyapunov exponent for different RM statistical distributions
+         
+          - Performed optimized high-dimension matrix operations using Random Matrix Theory (RMT), modeling a quantum operator
+          - Studied the eigen-phase & spacing distributions, and Lyapunov exponent for different RM statistical distributions
   - title: A Little More About Me
     layout: text
     content: |
