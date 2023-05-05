@@ -3,7 +3,7 @@ repository: Static Personal Website containing information about myself.
 # favicon: Directory of my favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
-version: 1
+version: 2
 
 # Personal info
 name: Danish Shah
@@ -16,7 +16,7 @@ website: https://danish.github.io
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
 twitter_username: its_danish1998
@@ -52,7 +52,9 @@ linkedin_username: sdanish1998
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/winter_profile_picture.jpg
 about_content: |
-  Hi, my name is Danish Shah, I'm an avid enthusiast in Capital Markets, Engineering & Technology. I love to build projects from scratch or to comprehend existing projects from a bigger perspective to contribute my innovation. My never-ending quest to solve mathematical problems that create tangible results motivated me to step into the Quant world. My passion is to bridge the gap between Quantitative Finance and Data Science to build effective and robust solutions to business problems. I aim to add value in key business areas like Predictive Modeling, Quantitative Research & Analysis, Asset Management, Risk Analytics, and relevant verticals. Skilled in multiple programming languages, including Python, C/C++, Java, Scala, and R
+  Hi, my name is Danish Shah, I'm an avid enthusiast in Capital Markets, Engineering & Technology. I love to build projects from scratch or to comprehend existing projects from a bigger perspective to contribute my innovation. My never-ending quest to solve mathematical problems that create tangible results motivated me to step into the Quant world. My passion is to bridge the gap between Quantitative Finance and Data Science to build effective and robust solutions to business problems. 
+  
+  I aim to add value in key business areas like Predictive Modeling, Quantitative Research & Analysis, Asset Management, Risk Analytics, and relevant verticals. Skilled in multiple programming languages, including Python, C/C++, Java, Scala, and R
 
 content:
   - title: Experience
