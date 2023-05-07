@@ -105,21 +105,43 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top
+      - layout: left
         title: Cornell University
         sub_title: MEng in Operations Research, Financial Engineering
-        caption: 2022 - 2023
-        description: |
-          GPA - 4.0
-          - *Selected Coursework* - Machine Learning, Reinforcement Learning, Big Data Technologies, Optimization, Monte Carlo Simulation, Time Series Analysis, Game Theory, Portfolio Management
+        caption: |
+          2022 - 2023
           
-      - layout: top
+          <a href="https://www.cornell.edu/">
+            <img src="images/Cornell_University.png" alt="Cornell University">
+          </a>
+        description: |
+          **GPA: 4.0**
+          
+          *Selected Coursework* 
+            - Machine Learning
+            - Reinforcement Learning
+            - Big Data Technologies
+            - Optimization
+            - Monte Carlo Simulation
+            - Game Theory
+            - Portfolio Management
+          
+      - layout: left
         title: IIT Madras
         sub_title: BTech in Mechanical Engineering
-        caption: 2016 - 2020
+        caption: |
+          2016 - 2020
+          
+          <a href="https://www.iitm.ac.in/">
+            <img src="images/IIT_Madras.png" alt="IIT Madras">
+          </a>
         description: |
-          GPA - 3.86
-            - *Selected Coursework* - Data Structures and Algorithms, Numerical Programming Methods
+          **GPA: 3.86**
+          
+          *Selected Coursework* 
+            - Data Structures and Algorithms
+            - Numerical Programming Methods
+            - Time Series Analysis
   - title: Research & Projects
     layout: list
     content:
