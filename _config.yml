@@ -66,7 +66,7 @@ content:
         caption: |
           August 2020 - July 2022
           
-          <a href="google.com">
+          <a href="https://www.goldmansachs.com/">
             <img src="images/Goldman_Sachs.png" alt="Goldman Sachs">
           </a>
         description: |
@@ -79,8 +79,12 @@ content:
       - layout: left
         title: Anheuser-Busch InBev
         sub_title: Data Scientist
-        caption: May - July 2019
-        link: http://www.anheuser-busch.com/
+        caption: |
+          May - July 2019
+          
+          <a href="http://www.anheuser-busch.com/">
+            <img src="images/ABInBev.png" alt="Anheuser-Busch InBev">
+          </a>
         description: |
           Predictive models to measure the cultural fitness of candidates
             - **Data Analytics**: Analyzed and built predictive models (kNN, SVM) on aptitude data to measure cultural fitness of candidates
@@ -88,8 +92,12 @@ content:
       - layout: left
         title: Agnikul Cosmos
         sub_title: Software Developer
-        caption: May - July 2018
-        link: http://www.agnikul.in/#
+        caption: |
+          May - July 2018
+          
+          <a href="http://www.agnikul.in/#">
+            <img src="images/Agnikul_Cosmos.jpg" alt="Agnikul Cosmos">
+          </a>
         description: |
           Optimization Analysis for the launch vehicle, Trajectory Design & Simulation, and Debris Modeling
             - **Numerical Simulation**: Developed a computer model using Python and MATLAB to simulate rocket launch, and compute the trajectory of the rocket and its payload, along with the dropped stages and debris
