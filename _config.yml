@@ -201,6 +201,8 @@ content:
     layout: text
     content: |
       During my free time, I like to play badminton and chess. As a hobby, I read/watch intriguing stuff like Wall Street stories, theoretical physics, space exploration, quantum computing, etc. I like to meet new people and hear about different perspectives.
+      
+      <img src="images/Physics.jpg" alt="Theoretical Physics" style="float: left;"/> <img src="images/Space.jpg" alt="Space Exploration" style="float: left;"/><img src="images/Wall_Street.jpg" alt="Wall Street" style="float: left;"/> <img src="images/Quantum_Computing.jpg" alt="Quantum Computing" style="float: left;"/>
 
 # Footer
 # footer_show_references: true
