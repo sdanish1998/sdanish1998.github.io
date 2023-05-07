@@ -65,11 +65,7 @@ content:
         sub_title: Analyst
         caption: |
         August 2020 - July 2022
-        
-        <a href="https://www.goldmansachs.com/">
-          <img align="middle" src="images/Goldman_Sachs.png" alt="Goldman Sachs">
-        </a>
-        #link: https://www.goldmansachs.com/
+        <img src="images/Goldman_Sachs.png" alt="Goldman Sachs">
         description: |
           Global Markets Surveillance Analytics
             - **Data Science**: Performed statistical analysis on trade data using Python, and trained time-series (ARIMA, GARCH) and machine-learning models to study client activity and market signals, to identify predictable patterns in the firm’s transactions
